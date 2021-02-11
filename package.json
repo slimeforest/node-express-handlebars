@@ -16,5 +16,10 @@
   "bugs": {
     "url": "https://github.com/slimeforest/node-express-handlebars/issues"
   },
-  "homepage": "https://github.com/slimeforest/node-express-handlebars#readme"
+  "homepage": "https://github.com/slimeforest/node-express-handlebars#readme",
+  "dependencies": {
+    "mysql": "^2.18.1",
+    "express": "^4.16.4",
+    "express-handlebars": "^3.0.2"
+  }
 }
