@@ -9,3 +9,10 @@ https://github.com/slimeforest/node-express-handlebars
 
 Youtube Video Demonstration:
 https://www.youtube.com/watch?v=u8Mx_NCXesY
+
+
+# Screenshots
+![index page, first start up](screenshots/index.png)
+![typing a burger to add to the list](screenshots/addburger.png)
+![showing the bugrer was added](screenshots/addedburg.png)
+![showing the burgers that have been eaten](screenshots/eaten.png)
